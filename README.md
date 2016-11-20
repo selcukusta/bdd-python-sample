@@ -8,7 +8,7 @@ This project requires python modules which is specified in `requirements.txt`
 Run `behave test/features/string_helper.feature`
 
 Output will be:
-
+```
 Feature: BDD-Python-Sample # test\features\string_helper.feature:1
 
   Scenario: First Python scenario                                                                   # test\features\string_helper.feature:3
@@ -20,3 +20,4 @@ Feature: BDD-Python-Sample # test\features\string_helper.feature:1
 1 scenario passed, 0 failed, 0 skipped
 3 steps passed, 0 failed, 0 skipped, 0 undefined
 Took 0m0.004s
+```
